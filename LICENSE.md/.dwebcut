@@ -1,0 +1,11 @@
+# Example .dwebcut File
+# For more information see: https://dweb.js.org/docs/dwebcut
+
+
+#### You can ignore node_modules files, considering Javascript is the official programming language for dSites and dApps.
+node_modules
+
+#### Ignore .js files from being shared on the globally repository when creating, sharing or syncing with dPack.
+test.js
+
+#### It's really that simple. Although there are future additions we will make to this file - as the dWeb ecosystem expands!
